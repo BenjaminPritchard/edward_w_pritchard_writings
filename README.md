@@ -1,6 +1,6 @@
 # Edward W. Pritchard: Stories Archive
 
-A complete local Markdown archive of all stories from [Edward W. Pritchard's blog](https://eddwardwpritchard.blogspot.com/).
+A complete local Markdown archive of all stories from [Edward W. Pritchard's blog](https://eddwardwpritchard.blogspot.com/), as archived by his son Benjamin Pritchard.
 
 > "These are the short stories of Edward w Pritchard of Akron, Ohio. Stories are updated frequently and on many subjects. These stories are fiction with characters, dates and places sometimes based upon fact or having real life names or characters. But it is always just fiction, story telling."
 
@@ -11,81 +11,13 @@ A complete local Markdown archive of all stories from [Edward W. Pritchard's blo
 - **Years Active:** 17 years (2010 – 2026)
 - **Full Catalog:** See [INDEX.md](INDEX.md) for the searchable chronological list.
 
-## Terminal TUI & Live SSH Access
+## Read Online (Web Archive)
 
-You can browse and read the entire collection of Edward W. Pritchard's stories directly in your terminal using the interactive **ed-tui** reader.
+The entire collection of 2,633 stories is published and readable online in a fast, searchable static web archive featuring dark, sepia, and light themes, year-by-year filtering, quick previews, and novellas:
 
-### Instant SSH Access (Zero Login Required)
+👉 **[https://benjaminpritchard.github.io/edward_w_pritchard_writings/](https://benjaminpritchard.github.io/edward_w_pritchard_writings/)**
 
-The reader is hosted live and publicly accessible over SSH with **no passwords, accounts, or SSH keys required**. Just open your terminal and connect:
-
-```bash
-ssh benjaminpritchard.org -p 4444
-```
-
-*(Or `ssh -p 4444 benjaminpritchard.org`)*
-
-![Edward W. Pritchard Story Archive TUI over SSH](assets/ssh-screenshot.png)
-
-### Pre-Built Binaries (Download Standalone TUI)
-
-If you prefer to run the reader locally without connecting to the SSH server, pre-compiled standalone executables are available for download via GitHub Releases:
-
-🔗 **[Download Pre-Built Binaries (v1.0.0 Release)](https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/tag/v1.0.0)**
-
-- **All Stories Embedded**: Similar to the live SSH version, these binaries are compiled with Go's `embed.FS`—meaning all 2,633 short stories are statically bundled inside the executable itself. Zero external runtime dependencies, no Go compiler, and no Python needed on your machine.
-- **Cross-Platform Architectures Available**:
-  - **macOS (Apple Silicon M1–M4)**: `ed-tui-darwin-arm64`
-  - **macOS (Intel)**: `ed-tui-darwin-amd64`
-  - **Linux (Standard 64-bit / x86_64)**: `ed-tui-linux-amd64`
-  - **Linux (ARM64 / Raspberry Pi)**: `ed-tui-linux-arm64`
-  - **Windows (64-bit)**: `ed-tui-windows-amd64.exe`
-
-```bash
-# Example: Download and run on macOS (Apple Silicon)
-curl -LO https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/download/v1.0.0/ed-tui-darwin-arm64
-chmod +x ed-tui-darwin-arm64
-./ed-tui-darwin-arm64
-```
-
-### How It Works: Go, Bubble Tea, & Wish
-
-For folks curious about the tech stack:
-- **Terminal User Interfaces in Go**: The Go ecosystem has world-class libraries for building rich, reactive console applications, led by Charmbracelet's **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** (a terminal framework built around The Elm Architecture) and **[Lip Gloss](https://github.com/charmbracelet/lipgloss)** (declarative terminal styling and layout).
-- **Serving TUIs over SSH with Wish**: Traditional SSH servers (like OpenSSH) authenticate user credentials to spawn shell sessions like `bash` or `zsh`. **[Wish](https://github.com/charmbracelet/wish)** is an SSH server library in Go developed by Charmbracelet that does something different: upon connection, it spins up a virtual pseudo-terminal (PTY) and hooks the incoming session directly into a Bubble Tea TUI application. No Unix accounts, authentication keys, or passwords are required.
-- **A Creative Public Reading Experiment**: Benjamin Pritchard created and deployed this setup as a fun, creative experiment: taking Ed Pritchard's massive 17-year catalog of 2,633 short stories and making it immediately readable from any terminal anywhere in the world over SSH—with zero installation, zero friction, and a retro demoscene aesthetic.
-
-### Key Navigation Shortcuts
-
-| Key | Action |
-| --- | --- |
-| `↑` / `↓` or `k` / `j` | Navigate story list / scroll reader |
-| `Tab` / `Shift+Tab` | Switch focus between Story List and Reader pane |
-| `Enter` / `l` | Focus Reader / select item |
-| `h` | Return focus to Story List |
-| `/` | Live full-text & title search |
-| `r` | 🎲 Demoscene random story roll |
-| `[` / `]` or `←` / `→` | Cycle years (ALL, 2010..2026) |
-| `y` | Open Year Picker menu |
-| `s` | Toggle sort order (Chrono vs Newest) |
-| `o` | Open original story in web browser |
-| `q` / `Ctrl+C` | Quit |
-
-### Running Locally
-
-You can also run or compile the standalone TUI locally on your machine:
-
-```bash
-cd apps/tui
-
-# Build standalone binary with all stories embedded:
-make build
-
-# Launch the reader:
-./ed-tui
-```
-
-All 2,633 stories are embedded directly into the executable via Go's `embed.FS`, creating a single, fully offline binary. See [apps/tui/README.md](apps/tui/README.md) for more details.
+![Edward W. Pritchard Web Archive](assets/githubio-screenshot.png)
 
 ## Selected Stories PDF Booklet
 
@@ -116,6 +48,84 @@ A formatted, printable 20-page PDF booklet featuring 20 selected stories is avai
 | 2024 | 2 | [Browse 2024 Stories](2024/README.md) |
 | 2025 | 1 | [Browse 2025 Stories](2025/README.md) |
 | 2026 | 2 | [Browse 2026 Stories](2026/README.md) |
+
+## Terminal TUI & Live SSH Access
+
+You can browse and read the entire collection of Edward W. Pritchard's stories directly in your terminal using the interactive **ed-tui** reader.
+
+### Instant SSH Access (Zero Login Required)
+
+The reader is hosted live and publicly accessible over SSH with **no passwords, accounts, or SSH keys required**. Just open your terminal and connect:
+
+```bash
+ssh benjaminpritchard.org -p 4444
+```
+
+*(Or `ssh -p 4444 benjaminpritchard.org`)*
+
+![Edward W. Pritchard Story Archive TUI over SSH](assets/ssh-screenshot.png)
+
+### How It Works: Go, Bubble Tea, & Wish
+
+For folks curious about the tech stack:
+- **Terminal User Interfaces in Go**: The Go ecosystem has world-class libraries for building rich, reactive console applications, led by Charmbracelet's **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** (a terminal framework built around The Elm Architecture) and **[Lip Gloss](https://github.com/charmbracelet/lipgloss)** (declarative terminal styling and layout).
+- **Serving TUIs over SSH with Wish**: Traditional SSH servers (like OpenSSH) authenticate user credentials to spawn shell sessions like `bash` or `zsh`. **[Wish](https://github.com/charmbracelet/wish)** is an SSH server library in Go developed by Charmbracelet that does something different: upon connection, it spins up a virtual pseudo-terminal (PTY) and hooks the incoming session directly into a Bubble Tea TUI application. No Unix accounts, authentication keys, or passwords are required.
+- **A Creative Public Reading Experiment**: Benjamin Pritchard created and deployed this setup as a fun, creative experiment: taking Ed Pritchard's massive 17-year catalog of 2,633 short stories and making it immediately readable from any terminal anywhere in the world over SSH—with zero installation, zero friction, and a retro demoscene aesthetic.
+
+### Key Navigation Shortcuts
+
+| Key | Action |
+| --- | --- |
+| `↑` / `↓` or `k` / `j` | Navigate story list / scroll reader |
+| `Tab` / `Shift+Tab` | Switch focus between Story List and Reader pane |
+| `Enter` / `l` | Focus Reader / select item |
+| `h` | Return focus to Story List |
+| `/` | Live full-text & title search |
+| `r` | 🎲 Demoscene random story roll |
+| `[` / `]` or `←` / `→` | Cycle years (ALL, 2010..2026) |
+| `y` | Open Year Picker menu |
+| `s` | Toggle sort order (Chrono vs Newest) |
+| `o` | Open original story in web browser |
+| `q` / `Ctrl+C` | Quit |
+
+## Run Locally & Pre-Built Binaries
+
+### Pre-Built Binaries (Download Standalone TUI)
+
+If you prefer to run the reader locally without connecting to the SSH server, pre-compiled standalone executables are available for download via GitHub Releases:
+
+🔗 **[Download Pre-Built Binaries (v1.0.0 Release)](https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/tag/v1.0.0)**
+
+- **All Stories Embedded**: Similar to the live SSH version, these binaries are compiled with Go's `embed.FS`—meaning all 2,633 short stories are statically bundled inside the executable itself. Zero external runtime dependencies, no Go compiler, and no Python needed on your machine.
+- **Cross-Platform Architectures Available**:
+  - **macOS (Apple Silicon M1–M4)**: `ed-tui-darwin-arm64`
+  - **macOS (Intel)**: `ed-tui-darwin-amd64`
+  - **Linux (Standard 64-bit / x86_64)**: `ed-tui-linux-amd64`
+  - **Linux (ARM64 / Raspberry Pi)**: `ed-tui-linux-arm64`
+  - **Windows (64-bit)**: `ed-tui-windows-amd64.exe`
+
+```bash
+# Example: Download and run on macOS (Apple Silicon)
+curl -LO https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/download/v1.0.0/ed-tui-darwin-arm64
+chmod +x ed-tui-darwin-arm64
+./ed-tui-darwin-arm64
+```
+
+### Building from Source
+
+You can also run or compile the standalone TUI locally from source:
+
+```bash
+cd apps/tui
+
+# Build standalone binary with all stories embedded:
+make build
+
+# Launch the reader:
+./ed-tui
+```
+
+All 2,633 stories are embedded directly into the executable via Go's `embed.FS`, creating a single, fully offline binary. See [apps/tui/README.md](apps/tui/README.md) for more details.
 
 ## Directory Structure
 

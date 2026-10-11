@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Complete Markdown archive of 2,631+ short stories categorized across 17 years (2010–2026) with frontmatter metadata and year-by-year indexes.
 
 ### Changed
-- Updated root `README.md` with live public SSH server access (`ssh benjaminpritchard.org -p 4444` via Charmbracelet Wish), demoscene TUI screenshot (`assets/ssh-screenshot.png`), pre-built standalone binary download links via GitHub Release `v1.0.0` for all major architectures, 20-page selected stories printable PDF booklet (`pdf/christmas_stories_20pages.pdf`), keyboard shortcuts, and updated repository structure diagram.
+- Reorganized and updated root `README.md`: added archival attribution for Benjamin Pritchard, featured the GitHub Pages web archive (`https://benjaminpritchard.github.io/edward_w_pritchard_writings/`) with preview screenshot (`assets/githubio-screenshot.png`) first, followed by the 20-page selected stories printable PDF booklet (`pdf/christmas_stories_20pages.pdf`), stories by year archive table, live SSH TUI reader (`ssh benjaminpritchard.org -p 4444`) with demoscene screenshot (`assets/ssh-screenshot.png`), pre-compiled standalone binary downloads for all major architectures via GitHub Release `v1.0.0`, local build instructions, and updated directory tree.
 - Redesigned homepage layout in `apps/gh-pages`: removed the ASCII art banner and secondary boilerplate subtitle, reordered the main page so "Browse Archive" (live search, filter pills, story cards) appears directly above the pinned longform section, enforced default dark theme with CSS `color-scheme: dark`, and updated navigation controls.
 
 ### Fixed
