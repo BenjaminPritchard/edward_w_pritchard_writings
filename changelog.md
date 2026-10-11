@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Complete Markdown archive of 2,631+ short stories categorized across 17 years (2010–2026) with frontmatter metadata and year-by-year indexes.
 
 ### Changed
-- Updated root `README.md` with comprehensive documentation for the `ed-tui` terminal reader, live public SSH server access (`ssh benjaminpritchard.org -p 4444` via Charmbracelet Wish), architecture explanation, keyboard shortcuts, and updated repository structure diagram.
+- Updated root `README.md` with live public SSH server access (`ssh benjaminpritchard.org -p 4444` via Charmbracelet Wish), demoscene TUI screenshot (`assets/ssh-screenshot.png`), pre-built standalone binary download links via GitHub Release `v1.0.0` for all major architectures, 20-page selected stories printable PDF booklet (`pdf/christmas_stories_20pages.pdf`), keyboard shortcuts, and updated repository structure diagram.
 - Redesigned homepage layout in `apps/gh-pages`: removed the ASCII art banner and secondary boilerplate subtitle, reordered the main page so "Browse Archive" (live search, filter pills, story cards) appears directly above the pinned longform section, enforced default dark theme with CSS `color-scheme: dark`, and updated navigation controls.
 
 ### Fixed

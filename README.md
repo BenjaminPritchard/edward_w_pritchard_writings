@@ -27,6 +27,27 @@ ssh benjaminpritchard.org -p 4444
 
 ![Edward W. Pritchard Story Archive TUI over SSH](assets/ssh-screenshot.png)
 
+### Pre-Built Binaries (Download Standalone TUI)
+
+If you prefer to run the reader locally without connecting to the SSH server, pre-compiled standalone executables are available for download via GitHub Releases:
+
+🔗 **[Download Pre-Built Binaries (v1.0.0 Release)](https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/tag/v1.0.0)**
+
+- **All Stories Embedded**: Similar to the live SSH version, these binaries are compiled with Go's `embed.FS`—meaning all 2,633 short stories are statically bundled inside the executable itself. Zero external runtime dependencies, no Go compiler, and no Python needed on your machine.
+- **Cross-Platform Architectures Available**:
+  - **macOS (Apple Silicon M1–M4)**: `ed-tui-darwin-arm64`
+  - **macOS (Intel)**: `ed-tui-darwin-amd64`
+  - **Linux (Standard 64-bit / x86_64)**: `ed-tui-linux-amd64`
+  - **Linux (ARM64 / Raspberry Pi)**: `ed-tui-linux-arm64`
+  - **Windows (64-bit)**: `ed-tui-windows-amd64.exe`
+
+```bash
+# Example: Download and run on macOS (Apple Silicon)
+curl -LO https://github.com/BenjaminPritchard/edward_w_pritchard_writings/releases/download/v1.0.0/ed-tui-darwin-arm64
+chmod +x ed-tui-darwin-arm64
+./ed-tui-darwin-arm64
+```
+
 ### How It Works: Go, Bubble Tea, & Wish
 
 For folks curious about the tech stack:
@@ -66,6 +87,13 @@ make build
 
 All 2,633 stories are embedded directly into the executable via Go's `embed.FS`, creating a single, fully offline binary. See [apps/tui/README.md](apps/tui/README.md) for more details.
 
+## Selected Stories PDF Booklet
+
+A formatted, printable 20-page PDF booklet featuring 20 selected stories is available for direct download in the repository:
+
+- 📖 **Download PDF**: [**Twenty Memorable Tales of Family, Ohio, Nostalgia, Humor, and Heart**](pdf/christmas_stories_20pages.pdf) (`pdf/christmas_stories_20pages.pdf`)
+- **Subtitle**: *A Christmas Gift Collection — Stories from a life well-observed: of old banks, front porches, holiday memories, and life in Ohio.*
+- Formatted as a clean, multi-story reading booklet ready for offline reading or printing.
 
 ## Stories by Year
 
@@ -106,6 +134,7 @@ edward_w_pritchard_writings/
 ├── requirements.txt    # Python dependencies
 ├── raw_posts.json      # Cached JSON responses from Blogger
 ├── assets/             # Screenshots and media assets
+├── pdf/                # Printable 20-page PDF booklet of 20 selected stories
 ├── apps/
 │   ├── tui/            # Go/Bubbletea terminal reader & Wish SSH client
 │   └── gh-pages/       # Static web archive for GitHub Pages
