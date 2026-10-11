@@ -1,0 +1,77 @@
+---
+title: "Romantic Love and Old Generals. reposted August 12, 2012"
+date: 2012-08-15T09:23:00.000-07:00
+updated: 2012-08-15T09:24:11.723-07:00
+author: "edward pritchard"
+url: "https://eddwardwpritchard.blogspot.com/2012/08/romantic-love-and-old-generals-reposted.html"
+post_id: "tag:blogger.com,1999:blog-1748755655566010474.post-9084263340194267641"
+categories: []
+---
+
+# Romantic Love and Old Generals. reposted August 12, 2012
+
+##  Tuesday, January 26, 2010/reposted August 15, 2012
+
+###  Romantic Love and old generals
+
+fiction
+edward w pritchard
+
+Romantic Love and old generals what a contrast
+
+An old fool falls for Romantic Love; life's lessons for men and now women generals too
+
+From the Desk of Ogadai Khan
+
+To General Sabotai
+
+February 8, 1243
+
+Speaking as your superior officer, I have instructed my messenger to wait while you open this, read this, and you are to immediately destroy this letter and send me an immediate reply.
+
+General, old friend, I am shocked by reports of your behavior with a young woman of Vienna. Surely my network of informers must have their information wrong. Despite their absolute devotion to our people, The Mongols, and myself, the Emperor they error somehow. How can you, one I know and trust above my own brothers put the security and success of our people's future and the success of the mission I assigned to you to conquer Vienna and then Europe at risk over one woman's affection. You are incapable of such a failing. Especially, you, an old General with the benefit of the wisdom that so many long years gives a man. Excuse me my heart is dropping at writing these harsh words to my old friend and I must stop to compose myself.
+
+General, My eyes nearly cloud with tears as I recall the time over 40 years ago as young braves in battle in Northern China that you and I sat in the hospital wounded. You in the shoulder and I with an arrow sticking out of my calf of the left leg. I still limp to this day from that injury. You were an inspiration to me as you sat like a philosopher and endured your pain seeking only to comfort me in my suffering.
+
+Your success in battle for us Mongols is legendary, but yet you remain a modest man. I cannot think of a battle that you lead that was not successful. True, you did not win every battle, being human, but your tactics were perfect, you and your soldiers always followed orders,and each battle was fought according to the preconceived plan to the glory of our empire. In Northern China where I now sit, the men say when they think I don't hear that you have even surpassed in battle the efforts of my Grandfather Genghis Khan. In Europe, where you now are at my command, the two most recent battles you won in Liegnitz, Poland and in Hungary will be forever remembered as some of the greatest in history.
+
+But, yet your next assignment the conquest of Vienna remains in jeopardy because of your "love" of a woman more than half of your age. I do not blame women for using any means at their command to obtain power and wealth which is what I think this woman is doing, while she makes a fool of you.
+If we were women and women men we would do the same. I also have a Mother, sisters, and many daughters. Like my Grand Father I have had thousands of women, the most beautiful and delightful of all time I am told, and I have numerous children. I am not a monster, or an old man who has lost his lust for life.
+
+To business
+You my subject have succumbed to the disease of romantic love brought to Vienna from Southern France by the troubadours and promoted by the idle and the impractical to make life more than it is. To me as I sit here and read the ways of this romantic love, and idealization of one woman and man's relationship I can't decide if I should laugh or have a drink. It is so anathema to the Mongol way of life that it seems ludicrous that it is happening and I wonder if I am imaging the whole thing in a what if, like the Chinese historians who we have conquered, love to do to pass the time.
+
+But I am not a thinker, i am a doer:
+here's what I heard about you:
+
+You sleep till noon with one woman in your bed. You have sexual relations with her even after dawn. Between romantic interludes you sing and sigh to her. When you are not doing this you write her odes and try to impress with expensive gifts,each more intriguing than the last. I also hear your have taken etiquette lessons to please her.
+This last thing pains me the most to hear, for you have infected the troops with your depravity, you and a few of your officers are taking dance lessons. You to please your new friend and they to chase other damsels.
+
+Our culture is superior to all others because of our virtues:
+We are warriors, we disdain cities and civilization, we follow orders, we put our horses first, our weapons second, our comrades first in battle, our families first between battles and ourselves last at all times.
+
+You have abandoned our values and disgraced your position
+
+I am dying old friend. My doctors lie to me, beguile me and because they are greedy, and afraid of me tell me I have at least one year to live, but I know I shall be dead in 90 days.
+
+I order you to not attack Vienna but to return home with all your troops. I expect I will be dead before you get here and you may say later that you came for the usual re election of our new leader. You must come home because I cannot allow our troops and later our people to be any longer exposed to this disease of romantic love.
+When you return, should I begone, I order you to study and meditate on the Chinese Confucianism teachings on the relationship of husband and wife and/or man and woman. They sum it up in one sentence:
+Always keep your distance. It is good advice.
+
+Destroy this letter- THAT IS AN ORDER
+Ogadai Khan
+
+Reply of Sabotai a worm
+
+Forgive me great one, i return immediately, I have no excuse for my behavior
+Sabotai
+
+End
+
+Note to Reader
+In a 100 year period, in 1200 or so The Mongols had conquered China, and partially destroyed Muslim civilization far away in the Middle East. Muslim history was forever altered by the destruction of the Caliphate in Baghdad [ central authority like the Catholic Pope] and the caliphate was never re-established.
+Now at the time of the above letter the unstoppable Mongols were now a few months from conquering Vienna and Europe. The Mongols had entered Eastern Europe months earlier, easily defeating the Poles and Hungarians, two of the fiercest fighters and greatest powers in the west in 1200. Because of their superior military technology, tactics, and loyalty of the troops, the mongols were unstoppable and had they been successful at Vienna, they could have went on to destroy and pillage Northern Italy and Paris. If they had done so, which was very likely, Western Europe would not have had a Renaissance, or Reformation, and there would be a lot of changes in world history. So dear reader, beware of romantic love unless you risk changing history.
+
+Posted by[edward pritchard](http://www.blogger.com/profile/17738734136928092517 "author profile")at[](http://eddwardwpritchard.blogspot.com/2010/01/old-fool-falls-for-romantic-love.html "permanent link")
+
+Labels:[old generals and romantic love](http://eddwardwpritchard.blogspot.com/search/label/old%20generals%20and%20romantic%20love)

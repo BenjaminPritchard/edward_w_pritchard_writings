@@ -1,0 +1,33 @@
+---
+title: "Some Sensations Are Genetic"
+date: 2010-02-28T20:21:00.000-08:00
+updated: 2013-11-12T03:43:34.726-08:00
+author: "edward pritchard"
+url: "https://eddwardwpritchard.blogspot.com/2010/02/some-sensations-are-genetic.html"
+post_id: "tag:blogger.com,1999:blog-1748755655566010474.post-8642680776784711164"
+categories:
+  - "sensations survive death"
+---
+
+# Some Sensations Are Genetic
+
+Fiction
+Edward W Pritchard
+
+The woman woke to the feel of delicate cat paws high up on her back, just below the shoulder blades. It was a large cat, not a tiger or panther, but midsized, like a lynx or bob cat and she felt the sensation of the instant before the weight of the springing cat caused her to fall forward and stumble or fall. The paws also had claws, sharp and potentially lethal but not extended yet and for now not drawn. The woman tensed her back as she roused from sleep expecting something further to happen.
+
+As she had done every early morning for several days, when the sensation occurred, she quickly rolled on to her side and the impression of the cat paws went away. She again thought, now calmly, that she had experienced a distant memory of herself being killed by an animal. Each morning for several days she had had this same eerie experience, of waking to the first touch of a pouncing cat striking mid-way up her back with it's first exploratory touch, before digging into her vital organs beneath her skin.
+
+Her boyfriend had suggested more sleep when she discussed her problem with him, which she had tried the last two nights but the exact same sensation had continued and later this morning she was skipping work, and going to see her Family doctor about it. Her Doctor was man of common sense and she felt better knowing she would be talking with him about the disturbance.
+
+About a month later the woman was going to see a psychiatrist about the problem with the cat paws. Every morning since the first meeting with her Doctor she had had the same awaking experience. She had seen her Doctor three times and had also taken several tests at an out patient laboratory, including an MRI. Yesterday just a few hours before her fourth 11:00 AM meeting with her Family doctor, his office, had called her and canceled the appointment and told her to report to another Doctor, today at 10:00 AM a woman psychiatrist from China who also was a surgeon.
+
+Three weeks and three visits to the psychiatrist later, the psychiatrist had personally called and told the woman that she had
+referred her to a neurosurgeon. The Psychiatrist also told her by phone, that she, the psychiatrist, was now having early morning awakenings, and had had them since very late the first night, following the first meeting with her new patient. The lady Psychiatrist every early morning woke to the sensation of herself freezing to death. She had become so disturbed by the feel of freezing that she thought it best if she not see the woman anymore. She also advised the woman that, the family Doctor, who had initially made the referral of the woman, to the psychiatrist, and this was in confidence please, well she continued somewhat nervously, the Family Doctor had began having awaking, again after the first meeting with the woman. The Family Doctor's sensation was of a short thick, roman style sword being plunged into his neck where the neck connected to the shoulder blades. The Family Doctor was not particularly disturbed, the psychiatrist had said, because it reminded him of an account of the death of Julius Caesar in the Senate
+he had read as a boy and he, the Family Doctor thought it was a case of mass hysteria of some sort, due to the power of suggestion. The lady psychiatrist was inclined to disagree she had told the woman, because she said she had counseled thousands of client's, and heard many very disturbing stories, but this was the first time she had personally been drawn into someone's delusions. In any event the lady psychiatrist was referring the lady to a colleague who was a neurosurgeon, and a psychiatrist, and was considered an expert in the field psycho-somatic illnesses, having published on the subject.
+
+The Neurosurgeon had called the woman two days after their first meeting. The first night after the consult the neurosurgeon had awoke to himself falling a moderate distance onto a ledge of rocks, He was sure it was a distant memory of a prior death, especially after he had it the second night and had experienced the sensation a full minute before rolling onto his side. He told the Woman that he couldn't see her anymore, not because of his own fears but because of what had happened to his wife, The neurosurgeon had mentioned his first awaking to his wife, after he had woke up very agitated, and the Doctor told his wife briefly about the new woman patient and the connection between their awakenings. This morning, the Doctor's second awakening and the wife's first occurred and the wife had woken to the sensation of herself gasping for air, laying on the ground, and trying to avoid a hot cloud of bad air and gas that was coming toward her. A few hours ago, the Doctors wife had refused to go to her job as a school teacher because she was afraid she would infect her students.
+
+In desperation the initial Woman, with the Cat Paw sensation, had refused to see any more Doctors, and instead went to see the local Parish Priest. She had been raised a Catholic but hadn't attended Mass in a long time. The Priest agreed to see her, after reading a very brief written summary from her of what had happened but agreed to talk to her only in the confessional. He agreed to pray for her and told her for the time being to sleep on her side and not discuss the problem with anyone else. He said he would advise her further in a few days.
+
+end part 1

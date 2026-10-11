@@ -1,0 +1,34 @@
+---
+title: "the air is thin up there"
+date: 2010-04-27T17:45:00.000-07:00
+updated: 2010-04-30T03:12:52.200-07:00
+author: "edward pritchard"
+url: "https://eddwardwpritchard.blogspot.com/2010/04/air-is-thin-up-there.html"
+post_id: "tag:blogger.com,1999:blog-1748755655566010474.post-1854929647450591833"
+categories:
+  - "our soldiers need our support"
+---
+
+# the air is thin up there
+
+fiction
+edward w pritchard
+
+I am sure I was the only one to figure out what Lucius was up to. As soon as I read the article in the company internal newspaper I knew right away. Not bad for the Company but the US tax payers spent plenty on Lucius' scheme and with me being honor bound not to turn in a fellow janitor, we have our honor and all, Lucius pulled off a pretty slick little coup. As usual he messed up, fell down into it and came out smelling like a rose and sitting pretty, or should I say sleeping like a baby for Lucius always came to work to catch up on his rest.
+
+Lucius wasn't lazy. He would work like crazy one minute and then find an out of the way place and nap for twenty. No problem, that's how he spent his day at work. We work at the aerospace over at the municipal airport in the little city in Ohio. It's a large company and we get a lot of important government jobs in national defense and we are subject to defense spending so we are always expanding rapidly and hiring like crazy and then cutting back, downsizing, cutting back, getting rid of good people. Eventually there are a lot of bad workers in some of the support jobs, not in engineering, but in an area like mine janitorial. We end up with patient people who are survivors and will put up with the up and down, boom and bust cycles the company goes through.
+
+I am a supervisor in building maintenance and Lucius spent 6 months working in my area and I was his boss. He was intelligent, quick witted and lazy in my opinion. But Lucius always beat the system and I was smart enough not to make a lot of waves and just nurse him along for 6 months until I could help him post into a better higher paying job; which with my help Lucius did. To the day, day number 180 in my area, Lucius posted into a much better job. Before Lucius left to be a janitor in the engineering department, actually a maintenance janitor, I must have found him asleep on the job 83 times. He would go into a job do it very rapidly and then lapse in a dead sleep. He slept deeply at work mainly because of his girlfriend who he brought in to work sometimes, dear old Mary Jane. He would take Mary Jane to an out of the way place and secretively and furtively smoke some and then sleep peacefully for up to an hour or so.
+
+I read in the Company newspaper that Lucius and the engineers over in the blimp hanger were doing some top secret government work on developing an atmosphere in a closed environment maximally conducive to employee morale and motivation. It was sponsored by the US Army and although the technique was secret it involved the air at the top of the Blimp hanger. Lucius although only a janitor was specifically mentioned in the article.
+
+The blimp hanger is a huge black structure previously used to house large blimps. It is mammoth and can be seen from a long way away. Up close it is very high, maybe like a ten or twenty story building. Because of a lot of complicated factors at the top of the blimp hanger an atmosphere develops, and there are clouds and sometimes rain or light snow. There are a lot of catwalks at the top and although it is top secret in there most of us regular long time employees have been up into the clouds in the hanger and have experienced the thin air up in the clouds. It is exciting to walk up there and look down at the floor of the building far far below. You walk on a series of cat walks and as you walk you are high up and it can be very pleasant.
+
+Lucius' division announced the plum defense department contract at a video conference. They had won a 200 million dollar contract sponsored by the army to study possible gases that might increase motivation and relaxation among employees of a control group.
+The announcement was made by the head of engineering for Lucius' division and it was said that in a controlled environment, such as the top of the blimp hanger, gases would form that might enhance moods. There was some mention of molybdenum in the video for at ground level of the blimp hanger that element was used in some other top secret work and might be a catalyst that would cause gases to rise into the top of the blimp hanger. It was being studied, to see if someone walked up there on the catwalks if they could be subtlety effected by gases in the air and might enjoy their work day and be more mellow and relaxed at work. Lucius was in the video and when the camera paned to the group of engineers, who had been high up in the thin air at the top of the blimp hangers before the video conference, Lucius looked mellow and had a funny smile but looked a little droopy through the eyes. The video ended with the engineers and Lucius having a party to announce the plum government contract and eating sandwiches, Cheetos and chips and lots Doritos. Apparently a lot of the engineers had taken to exercising up on the cat walks and the thin air improved their moods and gave them an usual voracious appetite. Initially one of the engineers discovered the benefits of the air up in the clouds of the blimp hanger.
+
+I went up in the blimp hanger top the next day and I think, I solved the mystery. There was a junction where three cat walks came together and there was a small platform formed by the intersection of the walkways. Some one had pulled a few low crates together. Immediately I thought of Lucius. If you stretched a blanket or two across the crates you could have a nice little sleeping platform high up in the thin air of the clouds. I didn't find any seeds or roaches but I did distinctly smell Lucius' friend Mary Jane's signature residual perfume near the platform. I felt invigorated when I came down.
+
+The company is happy with the new army contract and Lucius' entire local engineering division got a nice quarterly bonus. Even the janitors. I never said anything about my findings high up in the thin air of the clouds that form at the top of the blimp hanger.
+
+I have no conclusive proof that the mystery element in the thin air up in the catwalks is Mary Jane's perfume. I am honor bound by the code among us janitors not to speak out on something that might lose us a big contract based on only a hunch. The company needs the work. I am also OK with our soldiers getting to breathe in perfume filled air and perfume laced air to relax themselves. Its so much the better if it helps them stay motivated. Our soldiers have a very difficult job and if my silence can make their lives easier I am OK with that.

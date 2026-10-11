@@ -1,0 +1,31 @@
+---
+title: "a warm place to rest/ part 1 and 2"
+date: 2013-11-02T08:31:00.003-07:00
+updated: 2013-11-02T20:17:35.728-07:00
+author: "edward pritchard"
+url: "https://eddwardwpritchard.blogspot.com/2013/11/a-warm-place-to-rest-part-1.html"
+post_id: "tag:blogger.com,1999:blog-1748755655566010474.post-7398021729867123641"
+categories: []
+---
+
+# a warm place to rest/ part 1 and 2
+
+fiction
+edward w Pritchard
+
+Three years in a row cousin Charles tried coaxing and cajoling Great Uncle Thomas to talk about the Indians wars or at least the American civil war. This year Charles, now seventeen,  tried a different approach. " Uncle Thomas, ask Charles, what did the original native American Indians do to keep warm in Winter when they lived on the plains?" Uncle Thomas nearly a hundred first ask me, his favorite, to bring him some of my Mother's rhubarb pie before he started his story.
+end part 1
+part 2
+
+People today think that the most complicated things are better, naturally better these days, began Great Uncle Thomas. Today, here in 1924 we think our houses, modern houses, are the end all in technology and construction technique. Not true, hundreds of years ago Americans Indians using a minimum of technology and expense of man hours designed a warm place to rest that works better than anything we use today. An Indian family was safe and warm in their home and if need arose their home could be quickly moved from place to place.
+
+I was a young soldier in Kansas territory back 1852. Wounded would I be,  for three months I was cared for in an Indian village in a tepee. From the Alaskan frontiers to Texas Indian tribes used mobile tepees to keep warm and snug in temperatures from ten below zero to 100 degrees. The secret technology was a hole in the roof of the tepee structure that allowed air and smoke to escape. A smoke hole permitted a modest fire to be used in the tepee structure at all times to facilitate comfort and warmth. A smoke hole at the top of the tent allowed heated smoke which naturally drifts upward to escape. Two ear flaps on each side of the smoke hole allowed more control of smoke and heat using the wind. If it was desired to close the smoke hole ear flaps pulled across the top of the tepee accomplished that need. The ear flaps were controlled by two long poles.
+
+In freezing winter dirt and earth were piled partially up the sides of the tepee to keep out drafts, sometimes snow was used for additional insulation. The sides of the tepee were covered with a large number of animal skins carefully prepared for that purpose. Hunters spent many days and months finding and securing skins. Squaws spent many days and weeks preparing and curing skins. Ventilation was maintained by an entrance flap, used as a door and the smoke hole and ear flaps. Day in and day out one of the women or young boys maintained a controlled fire. Inside of a tepee on the coldest night is a warm place to rest. Families were comfortable in their snug tent no matter the weather as they prepared and ate their meals and went about family life and duties.
+
+One Indian told me, continued Uncle Thomas that original tepees were no more than 15 feet high because the wood poles used to construct and support tepees were difficult for men or dogs to drag from place to place. However, with the horse, obtained from the Spaniards poles could be up to 30 feet high. At its base a tepee could then be up to 30 feet in diameter allowing plenty of floor space for cooking, eating and family comforts throughout the long winter months.
+
+I lay in such a tepee with a wound here to my side. Great Uncle Thomas carefully lifted his shirt and showed us all sitting in the large living room here at our house on this Thanksgiving his ancient wound. It was from a bullet and was a dark purple smear down and across his left rib cage. That village where I recuperated in, Thomas continued, had 267 of the large style tepee and 48 of the smaller 12 pole variety. When the soldiers came to rescue me the boys burned every tepee to the ground after most of the Indians fled. Many Indians of the village where I had recuperated were wounded or killed in the battle to rescue me and revenge attacks on America soldiers. I was sad and sorrowful to see those tepees burn concluded Great Uncle Thomas. " A tepee in an Indian village was a warm place to rest. Family life for those three months I lived in a tepee was most enjoyable to me. "
+
+After the story of the tepees was finished our family here in Michigan was hushed. After a few minutes of near silence I went to the kitchen and brought my Great Uncle Thomas another large piece of rhubarb pie with whipped cream. Uncle Thomas stroked my blond hair with his withered hand and said I was a pretty girl, pretty like my Mother. By next thanksgiving Great Uncle Thomas had passed on.
+end

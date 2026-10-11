@@ -1,0 +1,80 @@
+# -----------------------------------------------------------------------------
+# Edward W. Pritchard Stories Archive - Root .gitignore
+# -----------------------------------------------------------------------------
+
+# --- Apps & Build Artifacts ---
+# Entire quality app directory (analysis and PDF book generation)
+apps/quality/
+
+# TUI Go embed content directory (synced via `make sync` from root story folders)
+apps/tui/content/
+
+# Compiled Go binaries and release artifacts
+apps/tui/ed-tui
+apps/tui/ed-tui-*
+apps/tui/dist/
+dist/
+checksums.txt
+/ed
+ed-tui
+ed-tui-*
+ed-tui-darwin-arm64
+ed-tui-darwin-amd64
+ed-tui-linux-amd64
+ed-tui-linux-arm64
+ed-tui-windows-amd64.exe
+
+# --- Golang ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Operating System & Editor Files ---
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Linux / general editor backups
+*~
+*.swp
+*.swo
+
+# IDEs
+.idea/
+.vscode/
+
+# --- Agent & Session Context ---
+.agent-notes.md
+.agent/

@@ -1,0 +1,28 @@
+# Go compiled binaries and release assets
+ed-tui
+ed-tui-*
+ed-tui-darwin-arm64
+ed-tui-darwin-amd64
+ed-tui-linux-amd64
+ed-tui-linux-arm64
+ed-tui-windows-amd64.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+checksums.txt
+
+# Synced story markdown content for Go embed (synced via `make sync`)
+content/
+
+# Build artifacts
+dist/
+
+# Operating system and editor files
+.DS_Store
+*.swp
+*.swo
+*~

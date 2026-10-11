@@ -1,0 +1,85 @@
+---
+title: "The Confession"
+date: 2010-03-15T16:47:00.000-07:00
+updated: 2011-11-22T03:39:09.025-08:00
+author: "edward pritchard"
+url: "https://eddwardwpritchard.blogspot.com/2010/03/confession.html"
+post_id: "tag:blogger.com,1999:blog-1748755655566010474.post-4819649949905786135"
+categories: []
+---
+
+# The Confession
+
+fiction
+edward w pritchard
+
+See the Young girl involved in a Scandal
+
+Part of My Consciousness runs backwards
+against times forward flying arrow
+starting with the promised mystic reunion
+back through life's pains and injuries
+back to mortal birth
+and before as a tree in a forest
+to small life near the ground
+to debris in shale
+to matter in water
+without awareness at the beginning
+waiting
+
+The Confession
+
+The chief of the tribe shouted firmly over the clamor " the old woman will be permitted to speak'.
+
+The old woman had invoked an ancient tradition that in times of stress to the tribe, any voice could be heard, even an old woman who had been away from the group for 77 years.
+
+The crowd quieted respectfully for the chief, but especially the young braves eyed the food on the tables along the River. They had been working for two days without proper rest or food and now wanted to relax and eat. They had listened politely as tribal elders for the last few hours had talked, and the last few speakers had disregarded the Indian tradition of brevity and direct speaking and used the occasion to drone on and on with praises for themselves and their clans.
+
+The occasion was the completion of a fort a [Swedish style] log structure on the [ Cuyahoga] River to honor the tribes fallen and dead in the recent [French and Indian, Seven Years ] War, and to serve as a permanent deterrent to White and European advancement into the area. There had been initial dissent against the project, because permanent structures were frowned on as either ostentatious or impractical to a mobile people. However, some of the young braves had learned the log building technique from European [Lutheran] missionaries, while traveling and trading out of the area, and in truth their finished fortress, because of their knowledge of and respect for the forest and trees in the area, and their teamwork as a group in building, surpassed that of even the European Whites, although the rest of the tribe would have to take that on faith as there were as yet no other White built structures in this area. And so with the setting western sun going down directly over the structure, and the tribe happy with the redistribution of wealth that such a project had brought, all were now happy with the project except this lone old woman who wished to criticize the project. The old woman had been forced to summarize her position as a condition of being allowed to speak and had been only given 10 minutes, half the normal time. Even so, some of the elders objected to her speaking because they distrusted her for several reasons. She had 77 years ago left the tribe in a scandal,they long since forgotten why,[ see young girl involved in a scandal EWP] her Father had been a very powerful leader, of a faction now out of power, and she was known herself as skilled and manipulative speaker.
+
+Most fears against the old woman subsided as she very slowly shuffled to the make shift podium. She was very old, frail and when she began to speak, it became apparent that her voice was soft and didn't carry well with the noise of the river, and a soft breeze, and she had a strange accent to the tribe's ears.
+
+She began by bowing to the chief and nodding to each of the religious leaders who all could be seen to lean forward to hear her. Despite the softness of her voice, her words were very well chosen and no-one could remember hearing a better speaker.
+
+As she had bowed to the chief he had smiled warmly at her because he knew her because there had been several incidents in the woman's cooking area back at the village because of her, mainly because many of the younger powerful women of the tribe, were strangely jealous and catty toward this new member of the group. She was a [welfare case] with no living male relatives and had just returned to this tribe with the chief's approval to live out her last days with the people of her birth. The chief's intervention had lead him to know this old woman, and he knew she was guilty of two main infractions, being too good of a cook and thereby causing jealousy, and of taking care of the children readily, and was often then taken advantage by young Mother's in the village. It was the chief who had permitted the woman to speak today and she began as follows:
+
+I am nearly 100 years old. I was born here, my Uncle was a Chief [ legendary for fighting the Whites far from here] and my Father was his first adviser. I was forced to leave here because of a political scandal and went from [ Ohio to Georgia] to an arranged marriage. I lived there for nearly twenty years until the death of my husband which I caused, and then went to [Europe-England] with 5 other Indians where I lived with the Whites for 52 years.
+
+You could now hear a pin drop in the village because this was a very unusual story and this lady obviously had very important information about the Whites to share with the tribe.
+
+At this point one brave impulsively brought the old woman some cold water, and a bench to sit on and she thanked him and continued:
+
+I first thank you for your hospitality here, i know i am a welfare case and am most grateful to be able to cook and assist you with watching you children two activities I value above all others. At this more than one young Mother shifted in their seats because many had left her children with the old woman far beyond what was appropriate to pursue their personal interests. Also a few of the braves nodded because this old woman's cooking was without peer and she enjoyed feeding a man her cooking which often caused jealousy among the other women.
+
+When I got to Georgia I was 16 years old, still in love with a brave from this tribe [ in Ohio] and was considered like my Mother Seyo [ a woman used as a stock example of beauty even now] beautiful, but unlike my Mother I was headstrong and stubborn. The woman had adopted an old confessional style dialogue, and it was considered impolite to directly look at her face, when she talked in this matter, likewise using the confessional dialogue allowed her to speak factually of personal matters, and she could be truthful without fear of modesty or bragging.
+
+The man I was sent to Georgia to marry was a good man but I never loved him in the twenty years we were together. To compensate for my lack of love, I decided that we would be the wealthiest Indian family in the area. [this tribe in Georgia, was known for being like the Whites, materialistic and money crazy] unlike the tribe in Ohio, who were now listening to her, and this tribe was uncomfortable by this statement by her.
+
+In time we had a white style farm with over 100 acres and many buildings. As an example I had 5 skillets in my kitchen [ many gasped at this]. One day, nearly 12 years after our wedding, although I took many steps to avoid it, I became pregnant.
+
+We both loved our new baby daughter very much and for several years we were happy. However, although My husband and I were healthy and strong in the normal Indian way, my daughter was sickly and constantly had to be kept indoors, although it is much warmer there than here.
+
+One day my sick daughter of 7 years was watching me cook a large meal, for my husband and some hired help who were working the farm, and the two of us watched the men through a glass window, and my Daughter then said something that changed my life.The men were doing a [ run and swing a string and ball in the fields to drive away locusts], which is a very exhausting activity, and my daughter said"
+"Mother I can't imagine my ever feeling well enough to run'".
+
+At these words my heart became broken and i vowed to do everything and anything to make my daughter well. I also became evil toward my husband because I blamed him for being unable to cure her. The old woman was now just about crying and speaking very softly in the confessional style, and everyone politely avoided her face.
+
+My husband tried many things to help our daughter and we spent a very large amount of money on quack remedies to cure her but nothing worked and she became sicker and sicker. Finally the medicine man of the village told my husband that he feared the little girl would soon die. My husband told me this, and he began to accept this situation passively in the normal Indian way, as god's will, and sought to make the girl comfortable and as happy as possible. I however, refused to accept this situation, and began to hate my husband more than ever.
+
+It happened that a famous White Doctor was touring the area. He was from [Europe] and world famous among the whites and had studied medicine in [Scotland] and his skill was much more advanced than Indian medicine. I went to see him and explained my motivations and offered him a large sum of money to cure my daughter. He agreed to see my daughter, accepted a small sum, and then told us he couldn't help her and basically said the same thing the Indian medicine man had said.
+Since I was unable to convince the Doctor with money, I offered myself sexually to the Doctor, for I was then very beautiful and often was desired by the Whites.
+
+However, this Doctor was a christian man and said to me that no one could cure the girl and suggested I learn to deal with the situation, as my husband, who he had just met appeared to be doing. A few weeks later my daughter died and in my anger I shook my fist at god, [ this was an extreme sacrilege to this tribe] and told my husband about my advances toward the Doctor, and I grew more evil and disrespectful toward my husband. In time my husband became unable to look me in the eye, and we had an unhappy marriage until he died a few years later. I might add that he was never mean or cruel to me during that time and this made people in the village hate me.
+
+After He died I was very unpopular with his tribe, and when some English people wanted some Indians to go to [London] to see the King I went , and no-one was sad to see me go. I became a cook then in several English households for over 50 years.
+
+While in England- [she now gave a brief description of the industrial revolution in England-circa- 1750] she told of how the technology of the English impacted, economic life, warfare and population in Europe and here in [Ohio] and what she thought were the implications for Indian society on the shores of [Lake Erie].
+
+These Indians were minimalist and close to nature but all quickly realized what she had said meant to their way of life. Intrinsically many people had known her conclusions previously, but now there was factual proof, and it was quickly decided to destroy the fort, as it would not stop the European advance into the area when they choose to come.
+
+With the last words the old woman said:
+" I have truthfully spoken my heart and I will say no more" and then began the 20 mile walk back south to the Lake village. No-one rose to help her, not out of anger, but because it would be dis-respectful and wrong to embarrass this noble woman who had explained and come to peace with her sins.
+
+The only other fact is after that day the old woman was honored in the village and in other local Indian villages, for both her cooking and her wisdom until her death a few years later. It is a little known fact to this day that long after the destruction of that village and way of life of those Indians, among the whites, and in their cookbooks , there is a complicated way to make a turtle soup, known as tuhan style, which was that old lady's name, and not, as it is often thought, a French name for turtle soup; a turtle soup originating during the French and Indian Wars near Lake Erie and the Cuyahoga River.
+
+end
